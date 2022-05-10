@@ -3,7 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
-Algorithms_Code/*
+Algorithms_Code/*.sln
+Algorithms_Code/Algorithms_Code/*
 
 # User-specific files
 *.rsuser
